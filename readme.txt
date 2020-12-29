@@ -2,3 +2,4 @@
 Git is free software.
 Im a good student.
 hi,git.good
+Creating a new branch is quick.
